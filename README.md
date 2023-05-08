@@ -18,7 +18,7 @@ SpringBoot
 JPA
 QueryDsl
 H2 DB
-### 테이블 관계도
+### 엔티티 
 ![테이블](https://user-images.githubusercontent.com/91367204/236715659-0e14527c-9358-4f9b-9452-fae760194e85.PNG)
 
 ### 변경점
