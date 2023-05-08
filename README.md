@@ -1,5 +1,5 @@
-# SOLPONGE 프로젝트 JPA 리펙토링
-팀 프로젝트로 진행한 solponge( https://github.com/Yongtapark/solponge.team.git )를 리펙토링한 개인프로젝트입니다.
+# SOLPONGE 프로젝트 JPA 버전업
+팀 프로젝트로 진행한 solponge( https://github.com/Yongtapark/solponge.team.git )를 버전업한 개인프로젝트입니다.
 ## 개발 동기
 기존의 팀프로젝트를 마치고, 이후에 공부를 진행하면서 좀더 코드를 직관적이고 객체지향적으로 만들수 있겠다 라는 생각이 들어 진행하게 되었습니다.
 ### 웹 실행 전 사전준비 (데이터 세팅) !! 현재 '사람인_공고별_데이터_03.csv' 가 깃에 올라가지 않아 작업중 !!
