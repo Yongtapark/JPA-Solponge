@@ -18,6 +18,9 @@ SpringBoot
 JPA
 QueryDsl
 H2 DB
+### 테이블 관계도
+![테이블](https://user-images.githubusercontent.com/91367204/236715659-0e14527c-9358-4f9b-9452-fae760194e85.PNG)
+
 ### 변경점
 ##### 1. 디렉토리 구조 및 명칭 변경
 ![제목 없음](https://user-images.githubusercontent.com/91367204/231708363-cea85c7b-f97d-440d-89bc-705868a334bb.png)
